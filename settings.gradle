@@ -1,1 +1,1 @@
-include ':app'
+include ':app', ':recyclerveiwdemo', ':rescyclerveiview', ':wuzijing0902'

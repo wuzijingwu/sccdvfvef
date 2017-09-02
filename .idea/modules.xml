@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Wuzijingshangchuan.iml" filepath="$PROJECT_DIR$/Wuzijingshangchuan.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/recyclerveiwdemo/recyclerveiwdemo.iml" filepath="$PROJECT_DIR$/recyclerveiwdemo/recyclerveiwdemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/rescyclerveiview/rescyclerveiview.iml" filepath="$PROJECT_DIR$/rescyclerveiview/rescyclerveiview.iml" />
+      <module fileurl="file://$PROJECT_DIR$/wuzijing0902/wuzijing0902.iml" filepath="$PROJECT_DIR$/wuzijing0902/wuzijing0902.iml" />
+    </modules>
+  </component>
+</project>
